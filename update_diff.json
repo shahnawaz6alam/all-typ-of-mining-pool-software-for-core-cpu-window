@@ -1,0 +1,65 @@
+[
+  {
+    "local": {
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "709297318287ada11f3a2bfbe2bbec71ac4e6274afcd1212915f37bb5154a4c2",
+      "BinaryPackageHash": "bb463968d607c90d1cf5c888d979402ef4f1b6ae651cb9d20a2d05b8a0055c08",
+      "PluginName": "NanoMiner",
+      "PluginVersion": {
+        "Major": 16,
+        "Minor": 1,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/NanoMiner_v16.1_mptoolkitV1_f25fee20-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/nanopool/nanominer/releases/download/v3.3.14/nanominer-windows-3.3.14-cuda11.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto"
+        ],
+        "NVIDIA": [
+          "KAWPOW",
+          "Octopus",
+          "DaggerHashimoto"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v3.3.14'.\n\nNanominer is a versatile tool for mining cryptocurrencies which are based on Ethash, Ubqhash, Cuckoo Cycle (Сortex coin),RandomX (Monero), KawPow (Ravencoin) and RandomHash (PascalCoin) algorithms.",
+      "PackagePassword": null
+    },
+    "online": {
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "d3da4b88d260c97566c10c4b5615313f7144779b9e6ae0e8758a4ac905245b6e",
+      "BinaryPackageHash": "bb463968d607c90d1cf5c888d979402ef4f1b6ae651cb9d20a2d05b8a0055c08",
+      "PluginName": "NanoMiner",
+      "PluginVersion": {
+        "Major": 16,
+        "Minor": 1,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/NanoMiner_v16.1_mptoolkitV1_f25fee20-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/nanopool/nanominer/releases/download/v3.3.14/nanominer-windows-3.3.14-cuda11.zip",
+      "SupportedDevicesAlgorithms": {
+        "NVIDIA": [
+          "KAWPOW",
+          "Octopus",
+          "DaggerHashimoto"
+        ],
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto"
+        ],
+        "CPU": []
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v3.3.14'.\n\nNanominer is a versatile tool for mining cryptocurrencies which are based on Ethash, Ubqhash, Cuckoo Cycle (Ð¡ortex coin),RandomX (Monero), KawPow (Ravencoin) and RandomHash (PascalCoin) algorithms.",
+      "PackagePassword": ""
+    }
+  }
+]
